@@ -1,0 +1,52 @@
+000.019 (0) Opened log file at time: Fri, 04 Aug 2017 15:55:53 +0000 on http://artecasaprojetos.com.br
+0000.048 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA73 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.6M | 24M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.057 (0) Free space on disk containing Updraft's temporary directory: 1305065.3 MB
+0000.078 (0) Tasks: Backup files: 1 (schedule: monthly) Backup DB:  (schedule: monthly)
+0000.082 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.090 (0) Semaphore (fd, apswp_options) being initialised
+0000.153 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.161 (0) Set semaphore last lock (fd) time to 2017-08-04 15:55:53
+0000.165 (0) Semaphore lock (fd) complete
+0000.187 (0) Backup run: resumption=0, nonce=6691ddf623be, begun at=1501862153 (0s ago), job type=backup
+0000.191 (0) Scheduling a resumption (1) after 300 seconds (1501862453) in case this run gets aborted
+0000.269 (0) Checking if we have a zip executable available
+0000.273 (0) Creation of backups of directories: beginning
+0000.345 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0484.329 (1) Opened log file at time: Fri, 04 Aug 2017 16:03:57 +0000 on http://artecasaprojetos.com.br
+0484.341 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA73 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.5M | 24.3M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0484.356 (1) Free space on disk containing Updraft's temporary directory: 1305065.1 MB
+0484.367 (1) Backup run: resumption=1, nonce=6691ddf623be, begun at=1501862153 (484s ago), job type=backup
+0484.377 (1) Scheduling a resumption (2) after 300 seconds (1501862937) in case this run gets aborted
+0484.432 (1) Checking if we have a zip executable available
+0484.439 (1) Creation of backups of directories: had begun; will resume
+0484.545 (1) Beginning creation of dump of plugins (split every: 400 MB)
+1591.065 (2) Opened log file at time: Fri, 04 Aug 2017 16:22:24 +0000 on http://artecasaprojetos.com.br
+1591.086 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA94 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.3M | 24.3M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1591.100 (2) Free space on disk containing Updraft's temporary directory: 1305065.2 MB
+1591.105 (2) Backup run: resumption=2, nonce=6691ddf623be, begun at=1501862153 (1591s ago), job type=backup
+1591.111 (2) Long time past since expected resumption time: approx expected=1501862937.8, now=1501863744.5, diff=806.7
+1591.116 (2) [Warning] Seu website é visitado com frequência e UpdraftPlus não esta recebendo os recursos que esperava; por favor, leia esta página: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+1591.121 (2) Scheduling a resumption (3) after 300 seconds (1501864044) in case this run gets aborted
+1591.237 (2) Checking if we have a zip executable available
+1591.245 (2) Creation of backups of directories: had begun; will resume
+1591.428 (2) Beginning creation of dump of plugins (split every: 400 MB)
+70731.478 (3) Opened log file at time: Sat, 05 Aug 2017 11:34:45 +0000 on http://www.artecasaprojetos.com.br
+70731.484 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA21 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.3M | 24.3M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+70731.490 (3) Free space on disk containing Updraft's temporary directory: 1305065.1 MB
+70731.495 (3) Backup run: resumption=3, nonce=6691ddf623be, begun at=1501862153 (70732s ago), job type=backup
+70731.497 (3) Long time past since expected resumption time: approx expected=1501864044.5, now=1501932885, diff=68840.5
+70731.499 (3) [Warning] Seu website é visitado com frequência e UpdraftPlus não esta recebendo os recursos que esperava; por favor, leia esta página: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+70731.503 (3) Scheduling a resumption (4) after 300 seconds (1501933185) in case this run gets aborted
+70731.536 (3) Checking if we have a zip executable available
+70731.537 (3) Creation of backups of directories: had begun; will resume
+70731.582 (3) Beginning creation of dump of plugins (split every: 400 MB)
+70836.180 (4) Opened log file at time: Sat, 05 Aug 2017 11:52:37 +0000 on http://www.artecasaprojetos.com.br
+70836.183 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA21 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 33.7M | 34.8M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+70836.191 (4) Free space on disk containing Updraft's temporary directory: 1305063 MB
+70836.198 (4) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1501933929.5, time_now=1501933957.7, diff=28, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+70836.200 (4) Rescheduling resumption 5: moving to 465 seconds from now (1501934422)
+70836.208 (4) To decrease the likelihood of overlaps, increasing resumption interval to: 345 + 120 = 465
+206454.926 (5) Opened log file at time: Mon, 07 Aug 2017 01:32:56 +0000 on http://artecasaprojetos.com.br
+206454.938 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA23 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.3M | 24M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+206454.953 (5) Free space on disk containing Updraft's temporary directory: 1305063.2 MB
+206454.956 (5) This backup task (6691ddf623be) is either complete or began over 2 days ago: ending (1502069576.3156, 1501863121) (existing jobdata keys: resume_interval, job_type, jobstatus, backup_time, job_time_ms, service, split_every, maxzipbatch, job_file_entities, option_cache, uploaded_lastreset, one_shot, followsups_allowed, backup_database, backup_files, runs_started, current_resumption, binzip, filecreating_substatus, files_enumerated_at, warnings, run_times, useful_checkin, sha1-plugins0, sha256-plugins0, sha1-themes0, sha256-themes0, sha1-uploads0, sha256-uploads0, sha1-others0, sha256-others0, backup_files_array, binsqldump, dbcreating_substatus, sha1-db0, sha256-db0, uploading_substatus, uploaded_googledrive-a6c93d38c4d3884e7dc7343f3973ec2c, uploaded_a6c93d38c4d3884e7dc7343f3973ec2c, uploaded_googledrive-80577e9da7a5be6bae9316075721c71d, uploaded_80577e9da7a5be6bae9316075721c71d, uploaded_googledrive-58b9689fcef883d6ee05ab6d32d4cc8d, uploaded_58b9689fcef883d6ee05ab6d32d4cc8d, uploaded_googledrive-809e50b3bf1d1b899e647d7b4745cbab, uploaded_809e50b3bf1d1b899e647d7b4745cbab, uploaded_googledrive-9e43b0ca538ede53b07533d50645bf00, uploaded_9e43b0ca538ede53b07533d50645bf00, prune)

@@ -1,0 +1,255 @@
+# Translation of Stable (latest release) in Danish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-16 11:39:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.theme-junkie.com/plugins/recent-posts-widget-extended/"
+msgstr "https://www.theme-junkie.com/plugins/recent-posts-widget-extended/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.theme-junkie.com/"
+msgstr "https://www.theme-junkie.com/"
+
+#: includes/form.php:205
+msgid "Right"
+msgstr "Højre"
+
+#: includes/form.php:206
+msgid "Center"
+msgstr "Center"
+
+#: includes/form.php:212
+msgid "Default Thumbnail"
+msgstr "Standard miniature"
+
+#: includes/form.php:215
+msgid "Leave it blank to disable."
+msgstr "Hvis blank, deaktiveres den."
+
+#: includes/form.php:223
+msgid "Display Excerpt"
+msgstr "Vis uddrag"
+
+#: includes/form.php:229
+msgid "Excerpt Length"
+msgstr "Uddrag længde"
+
+#: includes/form.php:237
+msgid "Display Readmore"
+msgstr "Vis \"Læs mere\""
+
+#: includes/form.php:243
+msgid "Readmore Text"
+msgstr "\"Læs mere\" tekst"
+
+#: includes/form.php:251
+msgid "Display Comment Count"
+msgstr "Vis antal kommentarer"
+
+#: includes/form.php:258
+msgid "Display Date"
+msgstr "Vis dato"
+
+#: includes/form.php:265
+msgid "Display Modification Date"
+msgstr "Vis \"Ændret dato\""
+
+#: includes/form.php:272
+msgid "Use Relative Date. eg: 5 days ago"
+msgstr "Anvend relative datoer. F.eks.: 5 dage siden"
+
+#: includes/form.php:284
+msgid "Use Default Styles"
+msgstr "Anvend standard styles (CSS)"
+
+#: includes/form.php:290
+msgid "Custom CSS"
+msgstr "Tilpasset CSS"
+
+#: includes/form.php:293
+msgid "If you turn off the default styles, you can use these css code to customize the recent posts style."
+msgstr "Hvis du ikke anvender standard styles, kan du bruge CSS koden, til at tilpasse udseendet."
+
+#: includes/functions.php:22
+msgid "Recent Posts"
+msgstr "Seneste indlæg"
+
+#: includes/functions.php:48
+msgid "Read More &raquo;"
+msgstr "Læs mere &raquo;"
+
+#: includes/functions.php:170
+msgid "Permalink to %s"
+msgstr "Permanent link til %s"
+
+#: includes/functions.php:175 includes/functions.php:181
+msgid "%s ago"
+msgstr "%s siden"
+
+#: includes/functions.php:188
+msgid "No Comments"
+msgstr "Ingen kommentarer"
+
+#: includes/functions.php:190
+msgid "%s Comments"
+msgstr "%s Kommentarer"
+
+#: includes/functions.php:192
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#. Plugin Name of the plugin/theme
+msgid "Recent Posts Widget Extended"
+msgstr "Recent Posts Widget Extended"
+
+#. Description of the plugin/theme
+msgid "Enables advanced widget that gives you total control over the output of your site’s most recent Posts."
+msgstr "En widget der giver dig total kontrol over, hvordan din liste med seneste, skal se ud."
+
+#. Author of the plugin/theme
+msgid "Satrya"
+msgstr "Satrya"
+
+#: classes/widget.php:24
+msgid "An advanced widget that gives you total control over the output of your site’s most recent Posts."
+msgstr "Giver dig total kontrol over, hvordan din liste med seneste indlæg, sider osv., skal se ud."
+
+#: classes/widget.php:36
+msgid "Recent Posts Extended"
+msgstr "Seneste Indlæg (Udvidet)"
+
+#: includes/form.php:17 includes/form.php:119
+msgid "Title"
+msgstr "Titel"
+
+#: includes/form.php:24
+msgid "Title URL"
+msgstr "Titel URL"
+
+#: includes/form.php:31
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: includes/form.php:38
+msgid "CSS Class"
+msgstr "CSS Class"
+
+#: includes/form.php:45
+msgid "HTML or text before the recent posts"
+msgstr "HTML eller tekst før"
+
+#: includes/form.php:52
+msgid "HTML or text after the recent posts"
+msgstr "HTML eller tekst efter"
+
+#: includes/form.php:64
+msgid "Ignore sticky posts"
+msgstr "Ignorer fastgjorte indlæg"
+
+#: includes/form.php:71
+msgid "Exclude current post"
+msgstr "Ekskludere aktuel indlæg"
+
+#: includes/form.php:77
+msgid "Post Types"
+msgstr "Indholdstyper"
+
+#: includes/form.php:93
+msgid "Post Status"
+msgstr "Status"
+
+#: includes/form.php:104
+msgid "Order"
+msgstr "Sortering"
+
+#: includes/form.php:107
+msgid "Descending"
+msgstr "Faldende"
+
+#: includes/form.php:108
+msgid "Ascending"
+msgstr "Stigende"
+
+#: includes/form.php:114
+msgid "Orderby"
+msgstr "Sorter efter"
+
+#: includes/form.php:117
+msgid "ID"
+msgstr "ID"
+
+#: includes/form.php:118
+msgid "Author"
+msgstr "Forfatter"
+
+#: includes/form.php:120
+msgid "Date"
+msgstr "Dato"
+
+#: includes/form.php:121
+msgid "Modified"
+msgstr "Ændret"
+
+#: includes/form.php:122
+msgid "Random"
+msgstr "Vilkårlig"
+
+#: includes/form.php:123
+msgid "Comment Count"
+msgstr "Antal kommentarer"
+
+#: includes/form.php:124
+msgid "Menu Order"
+msgstr "Menu rækkefølge"
+
+#: includes/form.php:130
+msgid "Limit to Category"
+msgstr "Begræns til kategori"
+
+#: includes/form.php:146
+msgid "Limit to Tag"
+msgstr "Begræns til Tag"
+
+#: includes/form.php:162
+msgid "Limit to Taxonomy"
+msgstr "Begræns til Taksonomi"
+
+#: includes/form.php:165
+msgid "Ex: category=1,2,4&amp;post_tag=6,12"
+msgstr "Eks: category=1,2,4&amp;post_tag=6,12"
+
+#: includes/form.php:166
+msgid "Available: "
+msgstr "Tilgængelig:"
+
+#: includes/form.php:175
+msgid "Number of posts to show"
+msgstr "Antal der skal vises"
+
+#: includes/form.php:182
+msgid "Offset"
+msgstr "Offset"
+
+#: includes/form.php:185
+msgid "The number of posts to skip"
+msgstr "Antal der skal springes over"
+
+#: includes/form.php:193
+msgid "Display Thumbnail"
+msgstr "Vis miniature"
+
+#: includes/form.php:199
+msgid "Thumbnail (height,width,align)"
+msgstr "Miniature (højde, bredde, justering)"
+
+#: includes/form.php:204
+msgid "Left"
+msgstr "Venstre"

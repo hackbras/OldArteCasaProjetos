@@ -1,0 +1,303 @@
+0000.010 (0) Opened log file at time: Fri, 04 Aug 2017 16:12:01 +0000 on http://artecasaprojetos.com.br
+0000.022 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA73 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.2M | 30.5M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.034 (0) Free space on disk containing Updraft's temporary directory: 1305065.1 MB
+0047.359 (0) Tasks: Backup files: 1 (schedule: monthly) Backup DB: 1 (schedule: monthly)
+0082.621 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0082.627 (0) Semaphore (fd, apswp_options) was stuck, set lock time to 2017-08-04 16:13:24
+0082.633 (0) Semaphore (fd, apswp_options) reset to 1
+0082.639 (0) Set semaphore last lock (fd) time to 2017-08-04 16:13:24
+0082.644 (0) Semaphore lock (fd) complete
+0082.700 (0) Backup run: resumption=0, nonce=12af8b371e26, begun at=1501863121 (83s ago), job type=backup
+0082.706 (0) Scheduling a resumption (1) after 300 seconds (1501863504) in case this run gets aborted
+0082.773 (0) Checking if we have a zip executable available
+0082.781 (0) Creation of backups of directories: beginning
+0082.892 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0719.022 (1) Opened log file at time: Fri, 04 Aug 2017 16:24:00 +0000 on http://artecasaprojetos.com.br
+0719.049 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA94 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.3M | 24.3M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0719.056 (1) Free space on disk containing Updraft's temporary directory: 1305065.1 MB
+0719.063 (1) Backup run: resumption=1, nonce=12af8b371e26, begun at=1501863121 (719s ago), job type=backup
+0719.066 (1) Scheduling a resumption (2) after 300 seconds (1501864140) in case this run gets aborted
+0719.111 (1) Checking if we have a zip executable available
+0719.112 (1) Creation of backups of directories: had begun; will resume
+0719.194 (1) Beginning creation of dump of plugins (split every: 400 MB)
+70496.985 (2) Opened log file at time: Sat, 05 Aug 2017 11:46:58 +0000 on http://www.artecasaprojetos.com.br
+70496.991 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.3 (cgi-fcgi, Windows NT A2-HORDA21 6.2 build 9200 (Windows Server 2012 Standard Edition) i586) MySQL: 5.6.22 WPLANG: pt_BR Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.3M | 24.3M) multisite: N openssl: OpenSSL 1.0.1i 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+70497.001 (2) Free space on disk containing Updraft's temporary directory: 1305065 MB
+70497.006 (2) Backup run: resumption=2, nonce=12af8b371e26, begun at=1501863121 (70497s ago), job type=backup
+70497.009 (2) Long time past since expected resumption time: approx expected=1501864140.5, now=1501933618.5, diff=69478
+70497.015 (2) [Warning] Seu website é visitado com frequência e UpdraftPlus não esta recebendo os recursos que esperava; por favor, leia esta página: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+70497.023 (2) Scheduling a resumption (3) after 300 seconds (1501933918) in case this run gets aborted
+70497.052 (2) Checking if we have a zip executable available
+70497.054 (2) Creation of backups of directories: had begun; will resume
+70497.101 (2) Beginning creation of dump of plugins (split every: 400 MB)
+70557.051 (2) Total entities for the zip file: 572 directories, 3594 files (0 skipped as non-modified), 51.9 MB
+70557.156 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+70559.350 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 100 files added (on-disk size: 102 KB)
+70559.518 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 108 (109) files added so far); re-opening (prior size: 102 KB)
+70562.468 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 200 files added (on-disk size: 522.4 KB)
+70562.515 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 93 (202) files added so far); re-opening (prior size: 522.4 KB)
+70565.375 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 300 files added (on-disk size: 976.1 KB)
+70565.522 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 103 (305) files added so far); re-opening (prior size: 976.1 KB)
+70568.141 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 400 files added (on-disk size: 1218 KB)
+70568.527 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 114 (419) files added so far); re-opening (prior size: 1218 KB)
+70571.686 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 500 files added (on-disk size: 2241 KB)
+70572.524 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 112 (531) files added so far); re-opening (prior size: 2241 KB)
+70574.720 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 600 files added (on-disk size: 2400.8 KB)
+70575.526 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 106 (637) files added so far); re-opening (prior size: 2400.8 KB)
+70579.536 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 55 (692) files added so far); re-opening (prior size: 3431.1 KB)
+70580.483 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 700 files added (on-disk size: 3502.3 KB)
+70582.544 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 56 (748) files added so far); re-opening (prior size: 3502.3 KB)
+70585.392 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 800 files added (on-disk size: 3554 KB)
+70585.546 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 56 (804) files added so far); re-opening (prior size: 3554 KB)
+70588.521 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 62 (866) files added so far); re-opening (prior size: 3614.7 KB)
+70590.417 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 900 files added (on-disk size: 3697.6 KB)
+70591.521 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 72 (938) files added so far); re-opening (prior size: 3697.6 KB)
+70594.552 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 59 (997) files added so far); re-opening (prior size: 3910.2 KB)
+70595.232 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1000 files added (on-disk size: 3974.8 KB)
+70597.524 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 59 (1056) files added so far); re-opening (prior size: 3974.8 KB)
+70599.899 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1100 files added (on-disk size: 4054.7 KB)
+70600.543 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 60 (1116) files added so far); re-opening (prior size: 4054.7 KB)
+70603.538 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 52 (1168) files added so far); re-opening (prior size: 4148.2 KB)
+70606.071 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1200 files added (on-disk size: 4185.1 KB)
+70606.536 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 46 (1214) files added so far); re-opening (prior size: 4185.1 KB)
+70609.530 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 60 (1274) files added so far); re-opening (prior size: 4227.4 KB)
+70611.296 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1300 files added (on-disk size: 4311.8 KB)
+70612.553 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 56 (1330) files added so far); re-opening (prior size: 4311.8 KB)
+70615.533 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 55 (1385) files added so far); re-opening (prior size: 4363.1 KB)
+70616.763 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1400 files added (on-disk size: 4401.6 KB)
+70618.519 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 100 (1485) files added so far); re-opening (prior size: 4401.6 KB)
+70619.512 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1500 files added (on-disk size: 4825.5 KB)
+70621.072 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1600 files added (on-disk size: 4825.5 KB)
+70621.518 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 136 (1621) files added so far); re-opening (prior size: 4825.5 KB)
+70624.388 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1700 files added (on-disk size: 5698 KB)
+70625.547 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.8 MB, 160 (1781) files added so far); re-opening (prior size: 5698 KB)
+70631.489 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1800 files added (on-disk size: 9516.8 KB)
+70633.301 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 1900 files added (on-disk size: 9516.8 KB)
+70633.554 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 135 (1916) files added so far); re-opening (prior size: 9516.8 KB)
+70636.601 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2000 files added (on-disk size: 9864.9 KB)
+70637.531 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 137 (2053) files added so far); re-opening (prior size: 9864.9 KB)
+70639.950 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2100 files added (on-disk size: 10330.5 KB)
+70641.540 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 133 (2186) files added so far); re-opening (prior size: 10330.5 KB)
+70643.597 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2200 files added (on-disk size: 10570.5 KB)
+70645.299 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2300 files added (on-disk size: 10570.5 KB)
+70645.518 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 122 (2308) files added so far); re-opening (prior size: 10570.5 KB)
+70648.753 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2400 files added (on-disk size: 10833.8 KB)
+70649.517 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 144 (2452) files added so far); re-opening (prior size: 10833.8 KB)
+70651.517 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2500 files added (on-disk size: 11088.9 KB)
+70653.523 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 145 (2597) files added so far); re-opening (prior size: 11088.9 KB)
+70654.959 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2600 files added (on-disk size: 11423.3 KB)
+70657.472 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2700 files added (on-disk size: 11423.3 KB)
+70657.533 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 106 (2703) files added so far); re-opening (prior size: 11423.3 KB)
+70660.753 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2800 files added (on-disk size: 11720.1 KB)
+70661.542 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 136 (2839) files added so far); re-opening (prior size: 11720.1 KB)
+70664.600 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 2900 files added (on-disk size: 12169.8 KB)
+70665.526 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 111 (2950) files added so far); re-opening (prior size: 12169.8 KB)
+70668.400 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 3000 files added (on-disk size: 12959.1 KB)
+70669.517 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 108 (3058) files added so far); re-opening (prior size: 12959.1 KB)
+70672.803 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 3100 files added (on-disk size: 14423.2 KB)
+70674.545 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 137 (3195) files added so far); re-opening (prior size: 14423.2 KB)
+70676.656 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 3200 files added (on-disk size: 15335.8 KB)
+70679.273 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 3300 files added (on-disk size: 15335.8 KB)
+70679.532 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 110 (3305) files added so far); re-opening (prior size: 15335.8 KB)
+70683.537 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 87 (3392) files added so far); re-opening (prior size: 15821.7 KB)
+70685.190 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 3400 files added (on-disk size: 16304.7 KB)
+70687.415 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip.tmp: 3500 files added (on-disk size: 16304.7 KB)
+70687.529 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 112 (3504) files added so far); re-opening (prior size: 16304.7 KB)
+70694.237 (2) Created plugins zip (0) - 17944.9 KB in 197.1 s (91 KB/s) (sha1: 17c002816361559cae077aa3f677c64057d46e5b, sha256: ba31107b467811c3a5328f95d9d79efe3101cfec33a35b1c81333b861fd769bc)
+70694.285 (2) Beginning creation of dump of themes (split every: 400 MB)
+70698.930 (2) Total entities for the zip file: 51 directories, 384 files (0 skipped as non-modified), 9.2 MB
+70698.952 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+70700.520 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip.tmp: 100 files added (on-disk size: 6.7 KB)
+70701.529 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 150 (151) files added so far); re-opening (prior size: 6.7 KB)
+70704.131 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip.tmp: 200 files added (on-disk size: 2028.5 KB)
+70705.524 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 133 (284) files added so far); re-opening (prior size: 2028.5 KB)
+70706.868 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip.tmp: 300 files added (on-disk size: 4268.4 KB)
+70709.714 (2) Created themes zip (0) - 6040.9 KB in 15.4 s (392.2 KB/s) (sha1: 41d9f2953ee3f004d7601547ad13948537a77c80, sha256: d4e2d96a99907d458e7f2464ee8b03527cd442ada5fc3d3c0869e73b7437ff13)
+70709.738 (2) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+70709.741 (2) Looking for candidates to back up in: E:\home\artecasapr\artecasaprojetos.com.br\web/wp-content/uploads
+70709.747 (2) finding files: wpcf7_uploads: adding to list (1)
+70709.753 (2) finding files: cache: adding to list (2)
+70709.757 (2) finding files: 2017: adding to list (3)
+70709.762 (2) Beginning creation of dump of uploads (split every: 400 MB)
+70710.831 (2) Total entities for the zip file: 11 directories, 110 files (0 skipped as non-modified), 2.8 MB
+70712.226 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+70713.351 (2) Created uploads zip (0) - 2805.1 KB in 3.6 s (788.1 KB/s) (sha1: 97e65044da66ebc3b9f0bbb460c62e34a8249853, sha256: 295bc94be58aee596d16ca4cac19eca536dc467892cdac560dc64fe82cd054f1)
+70713.367 (2) Beginning backup of other directories found in the content directory (index: 0)
+70713.369 (2) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+70713.371 (2) Looking for candidates to back up in: E:\home\artecasapr\artecasaprojetos.com.br\web/wp-content
+70713.373 (2) finding files: upgrade: skipping: excluded by options
+70713.375 (2) finding files: languages: adding to list (1)
+70713.377 (2) finding files: updraft: skipping: this is the updraft directory
+70713.379 (2) finding files: uploads: skipping: this is the uploads directory
+70713.381 (2) finding files: themes: skipping: this is the themes directory
+70713.383 (2) finding files: plugins: skipping: this is the plugins directory
+70713.385 (2) finding files: index.php: adding to list (2)
+70717.998 (2) Total entities for the zip file: 3 directories, 507 files (0 skipped as non-modified), 56.9 MB
+70718.020 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+70719.642 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip.tmp: 100 files added (on-disk size: 81.2 KB)
+70720.511 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 151 (152) files added so far); re-opening (prior size: 81.2 KB)
+70722.453 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip.tmp: 200 files added (on-disk size: 746.7 KB)
+70723.533 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 88 (240) files added so far); re-opening (prior size: 746.7 KB)
+70726.221 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip.tmp: 300 files added (on-disk size: 2087.2 KB)
+70727.529 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (21.3 MB, 125 (365) files added so far); re-opening (prior size: 2087.2 KB)
+70736.257 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip.tmp: 400 files added (on-disk size: 8376.2 KB)
+70737.838 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 507 files batched, 123 (488) added so far); re-opening (prior size: 8376.2 KB)
+70749.028 (2) A useful amount of data was added after this amount of zip processing: 13.5 s (normalised: 13.4 s, rate: 1911.3 KB/s)
+70749.252 (2) Zip: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip.tmp: 500 files added (on-disk size: 15417.6 KB)
+70751.708 (2) Created others zip (0) - 16486.1 KB in 38.3 s (430.5 KB/s) (sha1: 9d5e2b970d15647b84c784ac25ec188e287dd7dd, sha256: 1e5aa6ec0b020e81a1b5c0c5d942f456fd7eea5a1dd05edc173253067ad1e08e)
+70751.729 (2) Saving backup status to database (elements: 8)
+70751.736 (2) Resuming creation of database dump (WordPress DB)
+70751.838 (2) Table apswp_options: Total expected rows (approximate): 230
+70751.858 (2) Table apswp_options: Total rows added: 225 in 0.02 seconds
+70751.896 (2) Table apswp_options: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_options.table.gz - 15.2 KB)
+70751.915 (2) The scheduled resumption is within 45 seconds - will reschedule
+70751.919 (2) Rescheduling resumption 3: moving to 345 seconds from now (1501934218)
+70751.925 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+70751.948 (2) Table apswp_users: Total expected rows (approximate): 0
+70751.956 (2) Table apswp_users: Total rows added: 1 in 0.01 seconds
+70751.965 (2) Table apswp_users: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_users.table.gz - 0.6 KB)
+70752.007 (2) Table apswp_usermeta: Total expected rows (approximate): 19
+70752.015 (2) Table apswp_usermeta: Total rows added: 21 in 0.01 seconds
+70752.024 (2) Table apswp_usermeta: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_usermeta.table.gz - 1.3 KB)
+70752.058 (2) Table apswp_commentmeta: Total expected rows (approximate): 0
+70752.067 (2) Table apswp_commentmeta: Total rows added: 0 in 0.01 seconds
+70752.077 (2) Table apswp_commentmeta: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_commentmeta.table.gz - 0.3 KB)
+70752.113 (2) Table apswp_comments: Total expected rows (approximate): 0
+70752.120 (2) Table apswp_comments: Total rows added: 0 in 0.01 seconds
+70752.131 (2) Table apswp_comments: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_comments.table.gz - 0.5 KB)
+70752.166 (2) Table apswp_links: Total expected rows (approximate): 0
+70752.176 (2) Table apswp_links: Total rows added: 0 in 0.01 seconds
+70752.185 (2) Table apswp_links: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_links.table.gz - 0.4 KB)
+70752.221 (2) Table apswp_postmeta: Total expected rows (approximate): 269
+70752.235 (2) Table apswp_postmeta: Total rows added: 269 in 0.01 seconds
+70752.245 (2) Table apswp_postmeta: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_postmeta.table.gz - 5.6 KB)
+70752.281 (2) Table apswp_posts: Total expected rows (approximate): 99
+70752.303 (2) Table apswp_posts: Total rows added: 99 in 0.02 seconds
+70752.314 (2) Table apswp_posts: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_posts.table.gz - 8.4 KB)
+70752.352 (2) Table apswp_term_relationships: Total expected rows (approximate): 42
+70752.362 (2) Table apswp_term_relationships: Total rows added: 38 in 0.01 seconds
+70752.372 (2) Table apswp_term_relationships: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_term_relationships.table.gz - 0.5 KB)
+70752.406 (2) Table apswp_term_taxonomy: Total expected rows (approximate): 12
+70752.413 (2) Table apswp_term_taxonomy: Total rows added: 13 in 0.01 seconds
+70752.423 (2) Table apswp_term_taxonomy: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_term_taxonomy.table.gz - 0.5 KB)
+70752.467 (2) Table apswp_termmeta: Total expected rows (approximate): 0
+70752.479 (2) Table apswp_termmeta: Total rows added: 0 in 0.01 seconds
+70752.496 (2) Table apswp_termmeta: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_termmeta.table.gz - 0.3 KB)
+70752.532 (2) Table apswp_terms: Total expected rows (approximate): 12
+70752.542 (2) Table apswp_terms: Total rows added: 13 in 0.01 seconds
+70752.551 (2) Table apswp_terms: finishing file (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_terms.table.gz - 0.6 KB)
+70752.667 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_options.table.gz (1/12): adding to final database dump
+70752.684 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_users.table.gz (2/12): adding to final database dump
+70752.695 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_usermeta.table.gz (3/12): adding to final database dump
+70752.705 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_commentmeta.table.gz (4/12): adding to final database dump
+70752.715 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_comments.table.gz (5/12): adding to final database dump
+70752.726 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_links.table.gz (6/12): adding to final database dump
+70752.738 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_postmeta.table.gz (7/12): adding to final database dump
+70752.753 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_posts.table.gz (8/12): adding to final database dump
+70752.771 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_term_relationships.table.gz (9/12): adding to final database dump
+70752.783 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_term_taxonomy.table.gz (10/12): adding to final database dump
+70752.794 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_termmeta.table.gz (11/12): adding to final database dump
+70752.805 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db-table-apswp_terms.table.gz (12/12): adding to final database dump
+70752.816 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz: finished writing out complete database file (24 KB)
+70752.911 (2) Total database tables backed up: 12 (backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz, size: 32642, sha256)
+70752.932 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+70752.937 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+70752.944 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+70752.949 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip: others: This file has not yet been successfully uploaded: will queue
+70752.951 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz: db: This file has not yet been successfully uploaded: will queue
+70752.953 (2) Saving backup history. Total backup size: 42.3 MB
+70752.958 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+70752.964 (2) Cloud backup selection (1/1): googledrive (last)
+70753.004 (2) Beginning dispatch of backup to remote (googledrive)
+70753.091 (2) Google Drive: requesting access token: client_id=644367968768-8vogb91a6g630q370aaan9eefrnnl4ma.apps.googleusercontent.com
+70753.581 (2) Google Drive: successfully obtained access token
+70756.250 (2) Google Drive: creating path: /UpdraftPlus
+70757.082 (2) Google Drive quota usage: used=0 MB, total=15360 MB, available=15360 MB
+70757.084 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip: Attempting to upload to Google Drive (into folder id: 0Bw2LMqWCrAxsb2ttSVNjUHV4OVk)
+70758.411 (2) Googledrive chunked upload: 5.7 % uploaded (1048576)
+70759.391 (2) Googledrive chunked upload: 11.4 % uploaded (2097152)
+70760.455 (2) Googledrive chunked upload: 17.1 % uploaded (3145728)
+70761.472 (2) Googledrive chunked upload: 22.8 % uploaded (4194304)
+70762.388 (2) Googledrive chunked upload: 28.5 % uploaded (5242880)
+70763.448 (2) Googledrive chunked upload: 34.2 % uploaded (6291456)
+70764.484 (2) Googledrive chunked upload: 39.9 % uploaded (7340032)
+70765.565 (2) Googledrive chunked upload: 45.7 % uploaded (8388608)
+70766.608 (2) Googledrive chunked upload: 51.4 % uploaded (9437184)
+70767.674 (2) Googledrive chunked upload: 57.1 % uploaded (10485760)
+70768.817 (2) Googledrive chunked upload: 62.8 % uploaded (11534336)
+70769.805 (2) Googledrive chunked upload: 68.5 % uploaded (12582912)
+70770.866 (2) Googledrive chunked upload: 74.2 % uploaded (13631488)
+70771.900 (2) Googledrive chunked upload: 79.9 % uploaded (14680064)
+70772.834 (2) Googledrive chunked upload: 85.6 % uploaded (15728640)
+70773.846 (2) Googledrive chunked upload: 91.3 % uploaded (16777216)
+70774.919 (2) Googledrive chunked upload: 97 % uploaded (17825792)
+70776.205 (2) Googledrive chunked upload: 100 % uploaded (17825792)
+70776.214 (2) OK: Archive backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip uploaded to Google Drive in 19.13 seconds
+70776.220 (2) Recording as successfully uploaded: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip (a6c93d38c4d3884e7dc7343f3973ec2c)
+70776.241 (2) Deleting local file: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-plugins.zip: OK
+70776.517 (2) Google Drive quota usage: used=17.5 MB, total=15360 MB, available=15342.5 MB
+70776.519 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip: Attempting to upload to Google Drive (into folder id: 0Bw2LMqWCrAxsb2ttSVNjUHV4OVk)
+70778.157 (2) Googledrive chunked upload: 17 % uploaded (1048576)
+70779.181 (2) Googledrive chunked upload: 33.9 % uploaded (2097152)
+70780.140 (2) Googledrive chunked upload: 50.9 % uploaded (3145728)
+70781.079 (2) Googledrive chunked upload: 67.8 % uploaded (4194304)
+70782.309 (2) Googledrive chunked upload: 84.8 % uploaded (5242880)
+70783.846 (2) Googledrive chunked upload: 100 % uploaded (5242880)
+70783.859 (2) OK: Archive backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip uploaded to Google Drive in 7.32 seconds
+70783.866 (2) Recording as successfully uploaded: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip (80577e9da7a5be6bae9316075721c71d)
+70783.890 (2) Deleting local file: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-themes.zip: OK
+70784.179 (2) Google Drive quota usage: used=23.4 MB, total=15360 MB, available=15336.6 MB
+70784.182 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-uploads.zip: Attempting to upload to Google Drive (into folder id: 0Bw2LMqWCrAxsb2ttSVNjUHV4OVk)
+70785.651 (2) Googledrive chunked upload: 36.5 % uploaded (1048576)
+70786.711 (2) Googledrive chunked upload: 73 % uploaded (2097152)
+70788.124 (2) Googledrive chunked upload: 100 % uploaded (2097152)
+70788.139 (2) OK: Archive backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-uploads.zip uploaded to Google Drive in 3.94 seconds
+70788.153 (2) Recording as successfully uploaded: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-uploads.zip (58b9689fcef883d6ee05ab6d32d4cc8d)
+70788.178 (2) Deleting local file: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-uploads.zip: OK
+70788.458 (2) Google Drive quota usage: used=26.2 MB, total=15360 MB, available=15333.8 MB
+70788.461 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip: Attempting to upload to Google Drive (into folder id: 0Bw2LMqWCrAxsb2ttSVNjUHV4OVk)
+70789.734 (2) Googledrive chunked upload: 6.2 % uploaded (1048576)
+70790.833 (2) Googledrive chunked upload: 12.4 % uploaded (2097152)
+70791.864 (2) Googledrive chunked upload: 18.6 % uploaded (3145728)
+70792.801 (2) Googledrive chunked upload: 24.8 % uploaded (4194304)
+70793.909 (2) Googledrive chunked upload: 31.1 % uploaded (5242880)
+70795.017 (2) Googledrive chunked upload: 37.3 % uploaded (6291456)
+70796.120 (2) Googledrive chunked upload: 43.5 % uploaded (7340032)
+70797.117 (2) Googledrive chunked upload: 49.7 % uploaded (8388608)
+70798.139 (2) Googledrive chunked upload: 55.9 % uploaded (9437184)
+70799.138 (2) Googledrive chunked upload: 62.1 % uploaded (10485760)
+70800.151 (2) Googledrive chunked upload: 68.3 % uploaded (11534336)
+70801.220 (2) Googledrive chunked upload: 74.5 % uploaded (12582912)
+70802.376 (2) Googledrive chunked upload: 80.7 % uploaded (13631488)
+70803.401 (2) Googledrive chunked upload: 87 % uploaded (14680064)
+70804.529 (2) Googledrive chunked upload: 93.2 % uploaded (15728640)
+70805.525 (2) Googledrive chunked upload: 99.4 % uploaded (16777216)
+70806.576 (2) Googledrive chunked upload: 100 % uploaded (16777216)
+70806.588 (2) OK: Archive backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip uploaded to Google Drive in 18.11 seconds
+70806.600 (2) Recording as successfully uploaded: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip (809e50b3bf1d1b899e647d7b4745cbab)
+70806.628 (2) Deleting local file: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-others.zip: OK
+70806.907 (2) Google Drive quota usage: used=42.3 MB, total=15360 MB, available=15317.7 MB
+70806.909 (2) backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz: Attempting to upload to Google Drive (into folder id: 0Bw2LMqWCrAxsb2ttSVNjUHV4OVk)
+70808.004 (2) Googledrive chunked upload: 100 % uploaded
+70808.013 (2) OK: Archive backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz uploaded to Google Drive in 1.09 seconds
+70808.018 (2) Recording as successfully uploaded: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz (9e43b0ca538ede53b07533d50645bf00)
+70808.040 (2) Deleting local file: backup_2017-08-04-1612_Arte_Casa_Projetos_12af8b371e26-db.gz: OK
+70808.046 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+70808.050 (2) Number of backup sets in history: 1; groups (db): 1
+70808.052 (2) Examining (for databases) backup set with group_id=0, nonce=12af8b371e26, datestamp=1501863121 (Aug 04 2017 16:12:01)
+70808.053 (2) This backup set is the backup set just made, so will not be deleted.
+70808.055 (2) Number of backup sets in history: 1; groups (files): 1
+70808.057 (2) Examining (for files) backup set with nonce=12af8b371e26, datestamp=1501863121 (Aug 04 2017 16:12:01)
+70808.059 (2) This backup set is the backup set just made, so will not be deleted.
+70808.061 (2) This backup set is the backup set just made, so will not be deleted.
+70808.062 (2) This backup set is the backup set just made, so will not be deleted.
+70808.062 (2) This backup set is the backup set just made, so will not be deleted.
+70808.063 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+70808.064 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+70808.071 (2) Resume backup (12af8b371e26, 2): finish run
+70808.076 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+70808.083 (2) The backup apparently succeeded (with warnings) and is now complete
+70808.085 (2) Fetching RSS news feed
+70808.731 (2) Fetched RSS news feed; result is a: SimplePie
+70809.687 (2) Sending email ('Arquivos e banco de dados (Backup Completo (Full))') report (attachments: 1, size: 35 KB) to: miche...
+70811.071 (2) O backup aparentemente foi bem sucedido (com avisos) e agora está completo
